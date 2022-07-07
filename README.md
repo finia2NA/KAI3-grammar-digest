@@ -30,13 +30,6 @@ It is used to convey second hand information.
 ## L25-1: まま
 まま is used to express that a thing has been put in a state, and then remained in that state.
 
-まま is similar to て and ながら in that it is used for expressing simultaneity.  
-To recap:, those are used for
-- ながら: for action (like driving)  
-  - 運転しながら、スマホを使ってはいけない  
-- て: for internally induced state / way  
-  - その猿は、座ってバナナを食べています。  
-
 ![](sourceimages/mama.png)  
 窓を開けたまま、寝ちゃった。
 
