@@ -69,8 +69,7 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 #### Meaning 2: to leave something as it is
 - > 話さないでおいてください: stay quiet please  
 - > 椅子を置いておいてください: please leave the chair where it is  
-- > ![](sourceimages/examplesentences1.png)  
-(TODO: transcribe)
+
 
 ## L25-4: __ところ
 
@@ -82,3 +81,9 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 ![](sourceimages/tatokoro.png)  
 ![](sourceimages/teirutokoro.png)  
 
+### Examples
+> - 今パスタを食べるところから、出かけない。すみません。 -> I'm just about to eat pasta, so I can't go out. Sorry.
+
+> - 今ゲームしているところので、後で話してもいい。 -> I'm in a game right now, can we talk after?
+
+> - 今そうじしたところなので、部屋はきれいです。通常は...汚い。
