@@ -6,6 +6,7 @@
 ## L24-2: て-forms of state-changing 自動詞
 using the て-form of a state-changing 自動詞 conveys that something is in that state  
 
+### Examples
 - > 電気がつきます -> the light turned itself on  
 - > 電気が点いている -> the light is on
 
@@ -31,6 +32,9 @@ It is used to convey second hand information.
 まま is used to express that a thing has been put in a state, and then remained in that state.
 
 ![](sourceimages/mama.png)  
+
+
+### Examples
 窓を開けたまま、寝ちゃった。
 
 ## L25-2: てみます
@@ -38,6 +42,7 @@ Meaning "to try to do something that one has not done before"
 
 When talking about doing something unknown, this form is recommended.
 
+### Examples
 - > **歌ってみる** -> I'll try singing
 - > 靴を**履いてみて**もいいですか。 -> Is it ok to try on these shoes?  
 - > ハワイに行ったことがない。でも**行ってみたい**。 -> I have not been to Hawai. But I want to go.
@@ -50,20 +55,20 @@ Meaning:
 2. To keep something as it is  
 ![](sourceimages/teoku.png)
 
-
-Meaning 1: to do something in preparation
+sometimes when speaking, instead of ...てお..., people abbreviate to と  
+eg: スライドを作っ*てお*いてください -> スライドを作っ*と*いてください
+### Examples
+#### Meaning 1: to do something in preparation
 - > エアコンをつくておきます -> to turn on the aircon (eg. in preparation for a meeting)  
 - > エアコンをつけておいてください -> please turn on the AC in preparation  
 - > 水を買っておいて方がいいです -> it is recommended to buy water in preparation  
 - > テストの前に、勉強をしておかなくてはいけません -> before the test, you must study in preparation  
 
-Meaning 2: to leave something as it is
+#### Meaning 2: to leave something as it is
 - > 話さないでおいてください: stay quiet please  
 - > 椅子を置いておいてください: please leave the chair where it is  
 - > ![](sourceimages/examplesentences1.png)  
 (TODO: transcribe)
-
-sometimes when speaking, the てお of ておいてください　becomes a と
 
 ## L25-4: __ところ
 - dict.ところ: just about to ___
