@@ -1,4 +1,4 @@
-# Grammar Digest
+# KAI Level 3 Grammar Digest
 ## L24-1: 自動し、他動詞
 - 自動詞 -> intransitive verb
 - 他動詞 -> transitive verb
