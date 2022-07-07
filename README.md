@@ -42,6 +42,8 @@ Meaning "to try to do something that one has not done before"
 
 When talking about doing something unknown, this form is recommended.
 
+![](sourceimages/temiru.png)
+
 ### Examples
 - > **歌ってみる** -> I'll try singing
 - > 靴を**履いてみて**もいいですか。 -> Is it ok to try on these shoes?  
