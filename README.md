@@ -16,7 +16,7 @@ using the て-form of a state-changing 自動詞 conveys that something is in th
 - is more polite
 - has the feeling of "sorry", like てしまいました
 - is only used when talking to superiors  
-![](sourceimages/image.png)  
+![](sourceimages/node.png)  
 
 # L24-3: そう
 ### Recab: Lvl1 そう
@@ -71,6 +71,12 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 (TODO: transcribe)
 
 ## L25-4: __ところ
+
 - dict.ところ: just about to ___
-- ている ところ: doing ___ (and that is the reason for something, ie. that I can't talk right now)
-- た ところ: just finished ___
+- ている ところ: doing ___ (and that is the reason for something, eg. that I can't talk right now)
+- た ところ: just finished ___  
+
+![](sourceimages/rutokoro.png)  
+![](sourceimages/tatokoro.png)  
+![](sourceimages/teirutokoro.png)  
+
