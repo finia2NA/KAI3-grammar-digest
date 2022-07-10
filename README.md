@@ -86,4 +86,14 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 
 > - 今ゲームしているところので、後で話してもいい。 -> I'm in a game right now, can we talk after?
 
-> - 今そうじしたところなので、部屋はきれいです。通常は...汚い。
+> - 今そうじしたところなので、部屋はきれいです。通常は...汚い。-> I just cleaned my room, so it's clean. Usually... dirty 🙃.
+
+## L25-5: ために
+ために  translates as "for the sake of"...   
+
+![](sourceimages/tameni.png)
+
+example sentences:
+漫画がわかるために、勉強します -> for the sake of understanding manga, I study
+
+明日元気になるために、今日早く寝ます。 -> To be genki  tomorrow, i am going to sleep early.
