@@ -101,10 +101,22 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 ## L26-1: てある
 てある is used to emphasize that something has already been done, and the resulting state influences the present.
 
-It takes a 他動詞, but the を changes to が.
+It takes a 他動詞, but the を changes to が.  
+*(or sometimes は, depending on the は/が rules)*
 
 ![](sourceimages/tearu.png)
+
+### ておきました vs てあります
+While てあります conveys the same information as ておきました: something has been dome. However, the focus is different.
+
+ておきました focusses on the action, that *someone did it*.
+てあります focusses on the fact that the thing has been done, and the result of that.
+
+エアコンがつけてあります -> *The aircon* is turned on now.
+つけておきました -> *I turned on* the aircon.
 
 ### Examples
 - > お茶が買ってあります -> the tea has been bought.
 - > 部屋が飾ってあります -> the room has been decorated
+
+Difference between 
