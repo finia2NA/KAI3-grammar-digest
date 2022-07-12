@@ -93,7 +93,18 @@ eg: スライドを作っ*てお*いてください -> スライドを作っ*と
 
 ![](sourceimages/tameni.png)
 
-example sentences:
+### example sentences:
 漫画がわかるために、勉強します -> for the sake of understanding manga, I study
 
 明日元気になるために、今日早く寝ます。 -> To be genki  tomorrow, i am going to sleep early.
+
+## L26-1: てある
+てある is used to emphasize that something has already been done, and the resulting state influences the present.
+
+It takes a 他動詞, but the を changes to が.
+
+![](sourceimages/tearu.png)
+
+### Examples
+- > お茶が買ってあります -> the tea has been bought.
+- > 部屋が飾ってあります -> the room has been decorated
