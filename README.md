@@ -109,7 +109,7 @@ It takes a 他動詞, but the を changes to が.
 ![](sourceimages/tearu.png)
 
 ### ておきました vs てあります
-てあります conveys the same information as ておきました: something has been done.  
+てあります conveys the same information as ておきました: something has been done, and that is relevant right now.  
 However, the focus is different.
 
 ておきました focusses on the action, that *someone did it*.  
@@ -123,3 +123,27 @@ It's essentially the difference between "It has been done" and "I have done it".
 ### Examples
 - > お茶が買ってあります -> the tea has been bought.
 - > 部屋が飾ってあります -> the room has been decorated
+
+
+## L26-2: 見たい、のよう
+### 見たい
+みたい is used to say that something is *like* something else.  
+みたい itself is a な adjective.
+
+![](sourceimages/mitaina.png)
+
+#### Examples
+- > 雲が魚見たいです -> The cloud looks like a fish
+
+- > イタリアは形がブーツみたいな国 -> Italy is the country with the shape like a boot
+
+- > 怒ると、鬼みたいに怖いです -> If he get's agnry, he gets scary like a demon
+
+### のように
+Instead of みたい, you can also say のよう.  
+It's a lot more formal.
+
+![](sourceimages/youni.png)
+
+#### Examples
+- > 仕事が山のようにあります
