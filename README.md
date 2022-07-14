@@ -147,3 +147,19 @@ It's a lot more formal.
 
 #### Examples
 - > 仕事が山のようにあります
+
+## L26-3: ようだ, 見たい
+- ようだ,みたい **with the plain forms of a verb** is used to say that something appears a certain way, based on *indirect information*.  
+- For example, when your fish is gone and you see cat footprints:  
+- 猫が食べたようです。
+- It is related to level 1 そうだ, where the source of the information was external.
+- Can also use みたい instead:
+
+![](sourceimages/youda.png)
+![](sourceimages/mitaida.png)
+
+### Examples:
+- > 猫が魚を食べたようです。 -> it looks like the cat ate the fish.
+- > あの人はけんかするみたいです。 -> it looks
+- > あの人は眠いようですね。 -> that person looks tired
+-> テレビがなくて、クリストファーさんの髪が見つけました。クリストファーさんは泥棒のようです。 -> My TV is gone, but I found christophers hair. Christopher looks like a thief
