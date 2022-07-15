@@ -163,3 +163,46 @@ It's a lot more formal.
 - > あの人はけんかするみたいです。 -> it looks
 - > あの人は眠いようですね。 -> that person looks tired
 -> テレビがなくて、クリストファーさんの髪が見つけました。クリストファーさんは泥棒のようです。 -> My TV is gone, but I found christophers hair. Christopher looks like a thief
+
+## L27-1: The passive form: 受身機
+Japanese has a passive form. It is formed like this:
+
+- 一段 (Group 2): verb stem + られる
+- 五段 (Group 1): <strike>a</strike> -> u + れる
+- Irregulars:
+  - する -> される
+  - くる -> 来られる
+
+- The passive recipient of the action is the subject of the sentence, while the active person / object is marked with に or から
+  - (the usage is like もらう)
+- Passive form 他動詞 Verbs can still take direct objects. See the examples.
+- When forming the 受身機, there is no practical difference between 一段 and 五段.  
+  - (In effect, you can apply the rule for 五段 to every regular verb).
+- The result of this formation is a 一段 verb.
+- The 可能け and 受身機 of 一段 verbs look the same (eg 食べられる).
+
+
+![](sourceimages/ukemi.png)
+
+### Usage
+There are 3 Situations in which the 受身機 is used in Japanese.
+
+#### Regular passive
+When the subject of a story is of the receiving end of an action, the passive is used.
+
+- > 田中さんは山田さんにさそわれました。 -> Tanakaさん was invited by Yamadaさん.
+- > 娘は母に絵を褒められました。-> The daughter was praised by the mother for her drawing.
+
+#### Talking about people being negatively affected by 他動詞
+When talking about someone being hurt, emotionally or physically, the passive form is often used.
+
+- > 林さんは森さんにケーキを食べられました。 -> Tanakaさん's cake was eaten by Moritaさん.
+- > 小川さんは中野さんにロブレーターを読まられました。 -> Kogawaさん's love letter was read by Naganoさん.
+- > 好きな人に断られました。-> I was rejected by the person I liked
+
+#### Talking about people being negatively affected by 自動詞
+When someone is negatively affected by someone/something doing a 自動詞 action, the passive form can also be used.
+
+- > 新宿駅に、西田さんは女の人に泣かれました. -> Nishidaさん was cryed on by some woman at Shinjuku station.
+- > 中田さんは雨に降られました -> Nakataさん was rained on.
+- > 田中さんはセールスマンに家に来られました -> Tanakaさん interrupted by a salesman coming to her house.
