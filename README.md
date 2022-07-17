@@ -137,7 +137,7 @@ It's essentially the difference between "It has been done" and "I have done it".
 
 - > イタリアは形がブーツみたいな国 -> Italy is the country with the shape like a boot
 
-- > 怒ると、鬼みたいに怖いです -> If he get's agnry, he gets scary like a demon
+- > 怒ると、鬼みたいに怖いです -> If he get's angry, he gets scary like a demon
 
 ### のように
 Instead of みたい, you can also say のよう.  
@@ -160,7 +160,7 @@ It's a lot more formal.
 
 ### Examples:
 - > 猫が魚を食べたようです。 -> it looks like the cat ate the fish.
-- > あの人はけんかするみたいです。 -> it looks
+- > あの人はけんかするみたいです。 -> it looks like those people are having an argument.
 - > あの人は眠いようですね。 -> that person looks tired
 -> テレビがなくて、クリストファーさんの髪が見つけました。クリストファーさんは泥棒のようです。 -> My TV is gone, but I found christophers hair. Christopher looks like a thief
 
