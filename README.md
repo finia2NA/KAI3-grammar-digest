@@ -125,15 +125,15 @@ It's essentially the difference between "It has been done" and "I have done it".
 - > 部屋が飾ってあります -> the room has been decorated
 
 
-## L26-2: 見たい、のよう
-### 見たい
+## L26-2: みたい、のよう
+### みたい
 みたい is used to say that something is *like* something else.  
 みたい itself is a な adjective.
 
 ![](sourceimages/mitaina.png)
 
 #### Examples
-- > 雲が魚見たいです -> The cloud looks like a fish
+- > 雲が魚みたいです -> The cloud looks like a fish
 
 - > イタリアは形がブーツみたいな国 -> Italy is the country with the shape like a boot
 
@@ -148,7 +148,7 @@ It's a lot more formal.
 #### Examples
 - > 仕事が山のようにあります
 
-## L26-3: ようだ, 見たい
+## L26-3: ようだ, みたい
 - ようだ,みたい **with the plain forms of a verb** is used to say that something appears a certain way, based on *indirect information*.  
 - For example, when your fish is gone and you see cat footprints:  
 - 猫が食べたようです。
@@ -164,8 +164,12 @@ It's a lot more formal.
 - > あの人は眠いようですね。 -> that person looks tired
 -> テレビがなくて、クリストファーさんの髪が見つけました。クリストファーさんは泥棒のようです。 -> My TV is gone, but I found christophers hair. Christopher looks like a thief
 
-## L27-1: The passive form: 受身機
-Japanese has a passive form. It is formed like this:
+## L27-1: The Passive Form: 受身機
+Japanese has a passive form.  
+It is used whenever the subject of the sentence has no control over the predicate.  
+More specific rules below.
+
+It is formed like this:
 
 - 一段 (Group 2): verb stem + られる
 - 五段 (Group 1): <strike>a</strike> -> u + れる
@@ -194,7 +198,7 @@ When the subject of a story is of the receiving end of an action, the passive is
 - > 娘は母に絵を褒められました。-> The daughter was praised by the mother for her drawing.
 
 #### Talking about people being negatively affected by 他動詞
-When talking about someone being hurt, emotionally or physically, the passive form is often used.
+When talking about someone being hurt, emotionally or physically, by someone else doing something without their consent, the passive form is often used.
 
 - > 林さんは森さんにケーキを食べられました。 -> Tanakaさん's cake was eaten by Moritaさん.
 - > 小川さんは中野さんにロブレーターを読まられました。 -> Kogawaさん's love letter was read by Naganoさん.
@@ -206,3 +210,7 @@ When someone is negatively affected by someone/something doing a 自動詞 actio
 - > 新宿駅に、西田さんは女の人に泣かれました. -> Nishidaさん was cryed on by some woman at Shinjuku station.
 - > 中田さんは雨に降られました -> Nakataさん was rained on.
 - > 田中さんはセールスマンに家に来られました -> Tanakaさん interrupted by a salesman coming to her house.
+
+## L27-2: The Passive, Part 2:
+
+
