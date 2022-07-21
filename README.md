@@ -211,6 +211,53 @@ When someone is negatively affected by someone/something doing a 自動詞 actio
 - > 中田さんは雨に降られました -> Nakataさん was rained on.
 - > 田中さんはセールスマンに家に来られました -> Tanakaさん interrupted by a salesman coming to her house.
 
-## L27-2: The Passive, Part 2:
+### Usage, Part 2
+#### Saying who made something:
+If the person who made / built something is someone important of famous, instead of に, によって is used.
+
+- > This building was built by Jonny Ive -> このビルはアイブジョンニによって建てられました。
+
+#### Saying what something is made of / from
+When the constituents of a thing are still discernable, we say the thing is made *of* those things.  
+When the thing is made from things that have been processed irreversably, beyond recognition, we say it is made *from* those things.
+
+Japanese makes this distinction too. *Of* translates to *で*, and *from* to *から*.
+
+- > This building is made *of* stone. -> このビルは石*で*造れています。
+- > 日本酒はお米*から*作れています。-> Sake is made *from* rice.
+
+#### て form of 受身形
+The passive has a て-form, which expresses state.
+
+- > この本は多くの人に読まれています -> This book is read by many people
+
+## Level 3 たら
+In Level 3, たら is used to describe a situation of the type: *Because of something I did, I noticed something else happened / happening, that I cannot control*.  
+It carries a surprised subtone, and often describes an unfortunate situation.
+
+### Examples: 
+- > スマホを落としたら、割れて*しまいました*。 -> I dropped my smartphone and it broke.
+ - (Dropping the smartphone is my fault, the result I had no direct control over)
+
+- > 古い牛乳を飲んだら、気持ちが悪くなりました。-> I drank old milk and got sick
+  - (Drinking the milk is my fault, getting sick was out of my hands after that)
+
+- > スーパーへ行ったら、偶然友達に会いました - > I went to the supermarket and met a friend by chance.
+  - (Note: the second half of the sentence is often bad, but does not have to be. In this case, the meaning is simply that you were surprised.)
+
+- > 箱を開けたら、皿が割れていました。-> I opened the box and the plates were broken
+- (Because they were broken before; opening the box was not the action that caused them to break; only the thing that made me notice their ongoing state-of-brokenness, the て-form is used.)
+
+- > 窓を開けたら、雪が降っていました。-> I opened my Window and noticed it snowing.
 
 
+## Random grammar pieces
+This section is for random grammar things discussed in class, but too small for their own section.
+
+### 中々 ___ ない
+中々 ___ ない is a way to say that something is not easy; proressing annoyingly slow.
+
+なかなか返事が来ません -> they're not replying.
+なかなか上手になりません -> I'm not really getting good.
+なかなかバスが来ません: The bus is not coming
+なかなか起きられません: It's hard for me to get up
