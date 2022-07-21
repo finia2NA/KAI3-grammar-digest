@@ -246,7 +246,7 @@ It carries a surprised subtone, and often describes an unfortunate situation.
   - (Note: the second half of the sentence is often bad, but does not have to be. In this case, the meaning is simply that you were surprised.)
 
 - > 箱を開けたら、皿が割れていました。-> I opened the box and the plates were broken
-- (Because they were broken before; opening the box was not the action that caused them to break; only the thing that made me notice their ongoing state-of-brokenness, the て-form is used.)
+  - (Because they were broken before; opening the box was not the action that caused them to break; only the thing that made me notice their ongoing state-of-brokenness, the て-form is used.)
 
 - > 窓を開けたら、雪が降っていました。-> I opened my Window and noticed it snowing.
 
@@ -257,7 +257,9 @@ This section is for random grammar things discussed in class, but too small for 
 ### 中々 ___ ない
 中々 ___ ない is a way to say that something is not easy; proressing annoyingly slow.
 
-なかなか返事が来ません -> they're not replying.
-なかなか上手になりません -> I'm not really getting good.
-なかなかバスが来ません: The bus is not coming
-なかなか起きられません: It's hard for me to get up
+![](sourceimages/nakanakanai.png)
+
+- > なかなか返事が来ません -> they're not replying.
+- > なかなか上手になりません -> I'm not really getting good.
+- > なかなかバスが来ません: The bus is not coming
+- > なかなか起きられません: It's hard for me to get up
