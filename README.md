@@ -253,8 +253,10 @@ It carries a surprised subtone, and often describes an unfortunate situation.
 ## L27-3: のに
 のに means despite / even though.  
 
-### difference to けど 
-compared to けど, のに focusses on the "despite"ness of it, is used to emphasize how unexpected the second part of the sentence is.
+ ![](sourceimages/noni.png)
+
+### Difference to けど
+Compared to けど, のに focusses on the "despite"ness of it, is used to emphasize how unexpected the second part of the sentence is.
 
 - > "She studies all week, passed all preparation tests, was the best in class all semester, but failed the exam".
   - In this case, you would use のに
@@ -264,7 +266,7 @@ compared to けど, のに focusses on the "despite"ness of it, is used to empha
 - > He was kind of bad all semester and did not take studies seriously. He crammed on the night before the test, but alas, he didn't pass.
   - In this kind of situation, you use けど.
 
-
+## L28-1: ば
 
 
 ### Examples:
