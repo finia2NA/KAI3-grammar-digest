@@ -266,14 +266,49 @@ Compared to けど, のに focusses on the "despite"ness of it, is used to empha
 - > He was kind of bad all semester and did not take studies seriously. He crammed on the night before the test, but alas, he didn't pass.
   - In this kind of situation, you use けど.
 
-## L28-1: ば
-
 
 ### Examples:
 - > 今日は寒いのに、彼はTシャッツを着ています -> Even though it is cold, he wears a T-shirt.
 - > 今日は雪なのに、彼はTシャッツを着ています。 -> Even though there's snow today, he wears a T-shirt.
 - > しゅくだいがかんたんなのに、誰にもわかりませんでした。 -> Even though the homework was easy, noone understood it.
 - > 今日は雨が降っているのに、ジョッギングがした。 -> Even though it is raining today, I want to go jogging.
+
+## L28-1: ば
+ば is the japanese way to express a *hypothetical conditional*.
+
+![](sourceimages/ba.png)
+
+It is often used to make sentences explaining a way to do something (If you did this, then you would get better). The result of a ば sentence should be a positive thing. For negative consequences, use たら.
+
+### How to form the ば form
+#### Verbs:
+- 五段: u -> eば
+  - eg: 飲む -> 飲めば
+- 一段: る-> れば
+  - eg: 食べる -> 食べれば
+- Irregulars:
+  - する -> すれば
+  - くる -> くれば
+- notably the 一段,  五段 and even irregular rules are the same in practice. You can treat every verb as if it were 五段, just taking the last letter of the dict. form, changing it to the equivalent *e* sound, and adding ば
+
+#### Adjectives:
+- い: い -> ければ
+  - eg: 可愛い -> 可愛ければ
+- な: な -> ならば
+  - eg: きれい -> きれいなれば
+- exception: いい -> よければ
+
+#### Nouns:
+- Same as な adjectives
+
+### Examples
+
+- > できれば, ９時までにしてください -> if you can, please do it until 9pm.
+- > アパートはいつまでに出ればいいですか -> Until when should I have moved out of the apartment?
+- > Q: どうするば、日本人の友達が作れますか。 -> if I did what, I would get japanese friends?
+- > A: 居酒屋で飲めば、いろいろな人が会えますよ -> if you go to an izakaya, you're able to meet all kinds of people there
+- > Q: どこにいけば、可愛いメイドが見れられますか。 -> Where's a place that if I went to it I would be able to see cute maids?
+- > 秋葉原に行けば、メイドがいますよ。 -> If you go to Akihabara, there are maids there よ.
 
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
@@ -287,3 +322,10 @@ This section is for random grammar things discussed in class, but too small for 
 - > なかなか上手になりません -> I'm not really getting good.
 - > なかなかバスが来ません: The bus is not coming
 - > なかなか起きられません: It's hard for me to get up
+
+
+<!--### TODO: まで vs までに
+
+９時まで勉強してください: pls do benkyou the whoooole time until 9
+９時までに勉強してください: pls do benkyou at some point before 9 
+５時まで払ます: you are in the continual state of being able to -->
