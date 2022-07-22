@@ -172,7 +172,7 @@ More specific rules below.
 It is formed like this:
 
 - 一段 (Group 2): verb stem + られる
-- 五段 (Group 1): <strike>a</strike> -> u + れる
+- 五段 (Group 1): <strike>u</strike> -> a + れる
 - Irregulars:
   - する -> される
   - くる -> 来られる
@@ -231,7 +231,7 @@ The passive has a て-form, which expresses state.
 
 - > この本は多くの人に読まれています -> This book is read by many people
 
-## Level 3 たら
+## L27-2: Level 3 たら
 In Level 3, たら is used to describe a situation of the type: *Because of something I did, I noticed something else happened / happening, that I cannot control*.  
 It carries a surprised subtone, and often describes an unfortunate situation.
 
@@ -250,6 +250,28 @@ It carries a surprised subtone, and often describes an unfortunate situation.
 
 - > 窓を開けたら、雪が降っていました。-> I opened my Window and noticed it snowing.
 
+## L27-3: のに
+のに means despite / even though.  
+
+### difference to けど 
+compared to けど, のに focusses on the "despite"ness of it, is used to emphasize how unexpected the second part of the sentence is.
+
+- > "She studies all week, passed all preparation tests, was the best in class all semester, but failed the exam".
+  - In this case, you would use のに
+
+けど is a regular but. It can be used even when the first part of the sentence doesn't make the second half that unlikely.
+
+- > He was kind of bad all semester and did not take studies seriously. He crammed on the night before the test, but alas, he didn't pass.
+  - In this kind of situation, you use けど.
+
+
+
+
+### Examples:
+- > 今日は寒いのに、彼はTシャッツを着ています -> Even though it is cold, he wears a T-shirt.
+- > 今日は雪なのに、彼はTシャッツを着ています。 -> Even though there's snow today, he wears a T-shirt.
+- > しゅくだいがかんたんなのに、誰にもわかりませんでした。 -> Even though the homework was easy, noone understood it.
+- > 今日は雨が降っているのに、ジョッギングがした。 -> Even though it is raining today, I want to go jogging.
 
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
