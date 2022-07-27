@@ -1,4 +1,8 @@
 # KAI Level 3 Grammar Digest
+
+* TOC
+{:toc}
+
 ## L24-1: 自動し、他動詞
 - 自動詞 -> intransitive verb
 - 他動詞 -> transitive verb
@@ -18,12 +22,12 @@ using the て-form of a state-changing 自動詞 conveys that something is in th
 - is only used when talking to superiors  
 ![](sourceimages/node.png)  
 
-# L24-3: そう
+## L24-3: そう
 ### Recab: Lvl1 そう
 The そうです from Level 1 could attach to verbs and adjectives to say that something *looks* a certain way  
 ![](sourceimages/lvl1sou.png)  
 
-### Lvl2 そう
+### Lvl2 だそう
 The new way of using そう attaches to verbs and adjectives differently, and can also be used with nouns.
 It is used to convey second hand information.  
 ![](sourceimages/lvl2sou.png)  
@@ -343,7 +347,7 @@ Using ようにしてください, one can then make a polite request, eg to cus
 
 #### Examples:
 - > 医者: *できるだけ*、タバコを吸わないようにしてください。 -> Doctor: *If you can*, please try not to smoke.
-- > 電車の中に: "傘を忘れないようにしてください" -> Inside the train: "Please try not to forget your umbrella".
+- > 電車の中で: "傘を忘れないようにしてください" -> Inside the train: "Please try not to forget your umbrella".
 
 ## L28-4: ように:
 This lesson was about the general ように, which expresses the purpose of an action. This is similar to ために (L25-5), but whereas ために was used to express an *ambition*, a goal for which an action is performed, ように expresses a *hopefull wish* that the performed action will make things better and not worse.
@@ -363,7 +367,7 @@ This lesson was about the general ように, which expresses the purpose of an a
 - > 病気が治るように、神様に祈ります。-> I pray to god that the sickness may disappear.
 - > 忘れないように、メモをします。 -> So that I may not forget, I take notes.
 - > 魚が腐らないように、冷蔵庫に入れておきます。 -> so that the fish may not rot, I'm putting it in the fridge.
-- > 授業に間に合うように、１０分前に来るようにしています。 -> So that I may not be late for class, I'm trying to be there 10 minutes earlier.
+- > 授業に間に合うように、１０分前に来るようにしています。 -> So that I may be in time for class, I'm trying to be there 10 minutes earlier.
 
 
 ## Random grammar pieces

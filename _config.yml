@@ -1,2 +1,4 @@
 title: KAI Level 3 Grammar Digest
 theme: jekyll-theme-cayman
+markdown: kramdown
+toc_levels: 2
