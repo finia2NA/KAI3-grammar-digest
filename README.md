@@ -310,6 +310,44 @@ It is often used to make sentences explaining a way to do something (If you did 
 - > Q: どこにいけば、可愛いメイドが見れられますか。 -> Where's a place that if I went to it I would be able to see cute maids?
 - > 秋葉原に行けば、メイドがいますよ。 -> If you go to Akihabara, there are maids there よ.
 
+## L28-2: Xば...Xほど, Y
+Xば...Xほど means "the more X, the more Y". X can be a Verb or an い-adjective, Y has to be subsentence indicating some state change.
+
+![](sourceimages/bahodo.png)
+
+### Example sentences:
+- > 勉強すればするほど、上手になる -> the more I study, the better I (will) become.
+- > 飲めば飲むほど、わからなくなってしまいます。 -> The more I drink, the less I (will) understand.
+- > 寝なければ寝ないほど、疲れます -> The less I sleep, the more exhausted I become.
+
+
+## L28-3: ようにしている
+### Base case: ようにする
+**Xようにする** means to try to do something *that is hard but you think you are supposed to do or feel it's better to do*.  
+It differs from **Vてみる**, which meant to try something *out*, or *to try something that you're free to do or not do*.
+
+![](sourceimages/younisuru.png)
+
+### L28-3: ようにしている
+The て form of this, ようにしている then means *trying to continually doing something that is hard, but worth it*. For example eating healthier food, studying diligently, exercising etc.
+
+#### Examples
+
+- > 健康のためにハンバーガをあまり食べないようにしています。 -> I'm trying my best to eat less hamburgers for the sake of my health.
+- > あの人と会うとすぐけんかになってしまうので、会わないようにしているんです -> When I meet that person we quickly get into a fight, so I'm trying not to meet them.
+- > 環境保護のために、水を使いすぎないようにしています。 -> For the sake of the environment, I'm trying not to use too much water. 
+
+
+### ようにしてください
+Using ようにしてください, one can then make a polite request, eg to customers or patients.
+
+#### Examples:
+- > 医者: *できるだけ*、タバコを吸わないようにしてください。 -> Doctor: *If you can*, please try not to smoke.
+- > 電車の中に: "傘を忘れないようにしてください" -> Inside the train: "Please try not to forget your umbrella".
+
+
+
+
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
 
