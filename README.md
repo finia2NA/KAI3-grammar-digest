@@ -345,7 +345,25 @@ Using ようにしてください, one can then make a polite request, eg to cus
 - > 医者: *できるだけ*、タバコを吸わないようにしてください。 -> Doctor: *If you can*, please try not to smoke.
 - > 電車の中に: "傘を忘れないようにしてください" -> Inside the train: "Please try not to forget your umbrella".
 
+## L28-4: ように:
+This lesson was about the general ように, which expresses the purpose of an action. This is similar to ために (L25-5), but whereas ために was used to express an *ambition*, a goal for which an action is performed, ように expresses a *hopefull wish* that the performed action will make things better and not worse.
 
+> 子供が食べられるように、りんごを小さく切っています。 So that the child *may be able to eat it*, I'm cutting the apple into small pieces
+
+ように can be appended to:
+- the 可能形 of 他動詞 verbs
+- state-changing 自動詞 verbs
+- and ない形
+  - In this case, the hope is that the situation doesn't worsen in some way.
+
+![](sourceimages/Vyouni.png)
+
+### Examples
+- > 読めるように、もっと大きく書いてください。-> So that I may be able to read it, please write bigger.
+- > 病気が治るように、神様に祈ります。-> I pray to god that the sickness may disappear.
+- > 忘れないように、メモをします。 -> So that I may not forget, I take notes.
+- > 魚が腐らないように、冷蔵庫に入れておきます。 -> so that the fish may not rot, I'm putting it in the fridge.
+- > 授業に間に合うように、１０分前に来るようにしています。 -> So that I may not be late for class, I'm trying to be there 10 minutes earlier.
 
 
 ## Random grammar pieces
