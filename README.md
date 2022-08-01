@@ -369,6 +369,26 @@ This lesson was about the general ように, which expresses the purpose of an a
 - > 魚が腐らないように、冷蔵庫に入れておきます。 -> so that the fish may not rot, I'm putting it in the fridge.
 - > 授業に間に合うように、１０分前に来るようにしています。 -> So that I may be in time for class, I'm trying to be there 10 minutes earlier.
 
+## L29-1: 使役形: The Causative Form
+The primary meaning of the 使役形 is to *make* someone do something. It can also mean to *let* someone do something, often in combination with くれる.
+
+![](sourceimages/saseru.png)
+
+The person who is making / letting someone is the subject of the sentence. The adressed person is marked with に in case the conjugated verb as a 他動詞, and with を in case it is a 自動詞.
+
+### Examples:
+- > お姉さんたちシンでレラに掃除をさせました。The sisters made Cinderella do cleaning.
+- > 社長は社員に会社をやめさせました。-> The president made the employee quit.
+- > コーチは選手を走らせました。 -> The coach made the player run.
+- > 先生は学生をデパートに行かせました。 -> The teacher made the student go to the department store.
+
+- > アルバイトをさせてくれませんでした。 -> my parents wouldn’t let me work
+- > 子供の時に、ご両親は私にPCゲームをさせてくれました。 -> When I was a child, my parents let me play PC games
+
+- > 子供は若い時スマホを使わせたくない。->I don’t want to let my children use smartphones when they’re young
+- > 吸わせてもらえませんか? -> would you let me sit here?
+- > 写真を撮らせてもらえませんか。 -> Will you let met take a picture?
+
 
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
