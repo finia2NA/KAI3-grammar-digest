@@ -227,8 +227,8 @@ When the thing is made from things that have been processed irreversably, beyond
 
 Japanese makes this distinction too. *Of* translates to *で*, and *from* to *から*.
 
-- > This building is made *of* stone. -> このビルは石*で*造れています。
-- > 日本酒はお米*から*作れています。-> Sake is made *from* rice.
+- > This building is made *of* stone. -> このビルは石*で*造られています。
+- > 日本酒はお米*から*作られています。-> Sake is made *from* rice.
 
 #### て form of 受身形
 The passive has a て-form, which expresses state.
@@ -389,6 +389,35 @@ The person who is making / letting someone is the subject of the sentence. The a
 - > 吸わせてもらえませんか? -> would you let me sit here?
 - > 写真を撮らせてもらえませんか。 -> Will you let met take a picture?
 
+## L29-2: ことにします
+ことにする means "to decide on doing something". It expresses the subtext that you have thought through your decision, and are sure about it.
+
+At KAI, only ことにする is tought in level 3, but the grammar can also be used for nouns.
+
+![](sourceimages/kotonisuru.png)  
+![](sourceimages/nisuru.png)
+
+### Examples
+- > 大学に行くことにしました -> I have decided to go to University.
+- > 大学に行かないことにしました -> I have decided not to go to university
+Teslaにします: I have decided to buy the Tesla  
+ビールにします: I have decided on the beer.  
+  - (In this case, you might not have thought about it all that much, but want to assure the waiter that you are sure about your decision)
+
+
+## L29-3: ことになる
+When it isn't (just) you who made the decision, but someone else, or a group you are part of, you use ことになる.
+
+![](sourceimages/kotoninaru.png)
+
+In the て-form, this grammar can be used to say that something *is decided* to be a certain way, as a rule
+
+### Examples
+<!-- TODO: Examples -->
+
+## L29-4: Level 3 ばかり
+
+![](sourceimages/kotoninatteiru.png)
 
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
