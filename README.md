@@ -415,9 +415,9 @@ In the て-form, this grammar can be used to say that something *is decided* to 
 ### Examples
 <!-- TODO: Examples -->
 
-## L29-4: Level 3 ばかり
+<!-- ## L29-4: Level 3 ばかり -->
 
-![](sourceimages/kotoninatteiru.png)
+# [more grammar](https://www.icloud.com/pages/0b3CMRilnIrLlumiAvx-C82tg#Continuity)
 
 ## Random grammar pieces
 This section is for random grammar things discussed in class, but too small for their own section.
